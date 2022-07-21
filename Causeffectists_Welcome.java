@@ -1,7 +1,7 @@
 /** For my heroes Cain Ramirez Velasquez, Ramzan Kadyrov, Brian Shaw, Gordon Ramsay, 
 Jim Cramer, Ingo Rammer, Chandrasekhara Venkata Raman, Arthur Rambo, Charles Lindbergh, 
 Torakusu Yamaha, Jack Ma, Muhammad ibn Musa al-Khwarizmi, Elizabeth Warren, Ilhan Omar, 
-John Harvard, Muhammad Ali, Holy Land from Egypt's Pyramids and Alexandria Library to Syria */
+John Harvard, Muhammad Ali, and for Holy Land from Egypt's Pyramids and Alexandria Library to Syria */
 
 package causeffectism.welcome;
 
