@@ -8,7 +8,7 @@ public class Welcome {
         String[] greeting = new String[9];
         greeting[0] = "Welcome to Causeffectism";
         greeting[1] = "by Ibrahim Rammaha";
-        greeting[2] = "For my heroes Cain Ramirez Velasquez, Ramzan Kadyrov, Alaverdi Ramazanov, Brian Shaw, Gordon Ramsay, ";
+        greeting[2] = "For my heroes Cain Ramirez Velasquez, Ramzan Kadyrov, Murad and Alaverdi Ramazanov, Brian Shaw, Gordon Ramsay, ";
         greeting[3] = "Jim Cramer, Ingo Rammer, Abraham Lincoln, Chandrasekhara Venkata Raman, Arthur Rambo, Charles Lindbergh, ";
         greeting[4] = "Torakusu Yamaha, Jack Ma, Muhammad ibn Musa al-Khwarizmi, Elizabeth Warren, Ilhan Omar, ";
         greeting[5] = "John Harvard, Muhammad Ali, and for Holy Land from Egyptian Pyramids and Alexandria Library to Syria";
