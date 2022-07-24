@@ -13,7 +13,7 @@ public class Welcome {
         greeting[4] = "Torakusu Yamaha, Jack Ma, Muhammad ibn Musa al-Khwarizmi, Elizabeth Warren, Ilhan Omar, ";
         greeting[5] = "John Harvard, Muhammad Ali, and for Holy Land from Egyptian Pyramids and Alexandria Library to Syria";
         greeting[6] = "Do you want to eat pedophile bisexual criminals raping and sodomizing good orphans and want to own caves, pyramids, libraries, ";
-        greeting[7] = "volcanoes, tornadoes, thunderstorms, hurricanes? I know what it feels like to be raped as an orphan and made Causeffectism for ";
+        greeting[7] = "volcanoes, tornadoes, thunderstorms, hurricanes? I know what it feels like to be raped and robbed as an orphan and made Causeffectism for ";
         greeting[8] = "free education providers and orphans to accomplish good things independently and eat evil harmful pleasure enforcers";
         
         for (String g :greeting)
