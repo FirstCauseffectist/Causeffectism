@@ -8,7 +8,7 @@ int main()
     cout << " by First Causeffectist SHETLM Grandmaster Expert, Saint, Sheikh, Brahman, Rabbi, Shifu, Kru, Sensei, Space Guardian Angel Ibrahim Rammaha.";
     cout << " For my heroes Cain Ramirez Velasquez, Ramzan Kadyrov, Murad and Alaverdi Ramazanov, Brian Shaw, Gordon Ramsay, ";
     cout << "Jim Cramer, Ingo Rammer, Abraham Lincoln, Chandrasekhara Venkata Raman, Alexandra Elbakyan, Arthur Rambo, Charles Lindbergh, ";
-    cout << "Torakusu Yamaha, Jack Ma, Muhammad ibn Musa al-Khwarizmi, Elizabeth Warren, Ilhan Omar, Tim and Paul Samaras, ";
+    cout << "Torakusu Yamaha, Jack Ma, Stephen Wolfram, Muhammad ibn Musa al-Khwarizmi, Elizabeth Warren, Ilhan Omar, Tim and Paul Samaras, ";
     cout << "John Harvard, Muhammad Ali, Thomas Edison, and for Holy Land from Egyptian Pyramids and Alexandria Library to Syria.";
     cout << " Do you want to eat pedophile bisexual criminals raping and sodomizing good orphans and want to own caves, pyramids, libraries, earthquakes, thunderstorms, ";
     cout << "volcanoes, tornadoes, tsunamis, hurricanes, blackholes? I know what it feels like to be raped and forced to be homeless and robbed as an orphan and made Causeffectism for ";
