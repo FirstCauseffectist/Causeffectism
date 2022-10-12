@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
     cout << "Welcome to Causeffectism";
-    cout << " by First Causeffectist SHETLM Grandmaster Expert, Saint, Sheikh, Brahman, Rabbi, Shifu, Kru, Sensei, Space Guardian Angel Ibrahim Rammaha.";
+    cout << " by First Causeffectist SHETLM Grandmaster Expert, Sheikh Saint Kru Sensei, Space Guardian Angel Ibrahim Rammaha.";
     cout << " For my heroes Cain Ramirez Velasquez, Ramzan Kadyrov, Murad and Alaverdi Ramazanov, Brian Shaw, Gordon Ramsay, ";
     cout << "Jim Cramer, Ingo Rammer, Abraham Lincoln, Chandrasekhara Venkata Raman, Alexandra Elbakyan, Arthur Rambo, Charles Lindbergh, ";
     cout << "Torakusu Yamaha, Jack Ma, Stephen Wolfram, Muhammad ibn Musa al-Khwarizmi, Elizabeth Warren, Ilhan Omar, Tim and Paul Samaras, ";
