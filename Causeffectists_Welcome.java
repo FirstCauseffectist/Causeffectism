@@ -15,7 +15,7 @@ public class Welcome {
         greeting[6] = "Do you want to eat pedophile bisexual criminals raping and sodomizing good orphans and want to own caves, pyramids, libraries, earthquakes, thunderstorms, ";
         greeting[7] = "volcanoes, tornadoes, tsunamis, hurricanes, blackholes? I know what it feels like to be raped and forced to be homeless then robbed as an orphan and made Causeffectism and 24/7 public library shelters for ";
         greeting[8] = "free education providers and orphans to accomplish good things independently and eat evil harmful pleasure enforcers. Getting sick of sodomizers profiting through porn and pedophile gays getting funds from government taxes.";
-        greeting[9] = "If you are homeless Walmart Supermarket and local storage rental are the cheapest places in America";       
+        greeting[9] = "If you are homeless Walmart Supermarket and local storage rental are the cheapest places in America. America disciminates against Muslim students and fails them in society but allows gays and jew sinners";       
         for (String g :greeting)
             
          System.out.println(g);
