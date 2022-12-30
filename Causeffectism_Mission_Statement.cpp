@@ -14,6 +14,5 @@ int main()
     cout << "volcanoes, tornadoes, tsunamis, hurricanes, blackholes? I know what it feels like to be raped and forced to be homeless and robbed as an orphan and made Causeffectism and public 24/7 library shelters for ";
     cout << "free education providers and orphans to accomplish good things independently and eat evil harmful pleasure enforcers.";
     cout << "Getting sick of sodomizers profiting through porn and pedophile gays getting funds from government taxes.";
-    cout << "US made internet and only democracy in world so get ready for new states UNITED STATES OF America, Arabia, Antarctica, Commonwealth Britain, Iran, Zimbabwe, Russia, Malaysia,";
-    cout << " and Mauritius based on their amazing government policies including punishing sodomy and other crimes. If you are homeless Walmart Supermarket and local storage rental are the cheapest places in America.";
+    cout << " f you are homeless Walmart Supermarket and local storage rental are the cheapest places in America. America disciminates against Muslim students and fails them in society but allows gays, satanics, jews, and other pimping criminalizing sinners";
 }
