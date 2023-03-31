@@ -4,8 +4,8 @@ using namespace std;
 
 int main()
 {
-    cout << "Causeffectism: Under God With Liberty and Justice for All Anti-Sinning God Knowing Muslims and Christians Providing Free Education under United States of Christians Muslims. Future will be constitutional christian muslim theocracy and open access education. You're welcome Vatican Pope and royals so don't end up like Tsars serial murdered";
-    cout << " by First Causeffectist SHETLM Grandmaster Expert, Universe's Priest Imam, Space Guardian Angel Ibrahim Rammaha.";
+    cout << "Causeffectism: Under God Almighty Allahu Akbar With Liberty and Justice for All Anti-Sinning God Knowing Muslims and Christians Providing Free Education under United States of Christians Muslims. Future will be constitutional christian muslim theocracy and open access education. You're welcome Vatican Pope and royals so don't end up like Tsars serial murdered";
+    cout << " by First Causeffectist and Arabian Silat Grand-priest-imam Ibrahim Rammaha.";
     cout << " For my heroes Cain Ramirez Velasquez, Ramzan Kadyrov, Murad and Alaverdi Ramazanov, Brian Shaw, Gordon Ramsay, Islam Ramazanovich Makhachev, Khabib Nurmagomedov, ";
     cout << "Jim Cramer, Ingo Rammer, Abraham Lincoln, Chandrasekhara Venkata Raman, Alexandra Elbakyan, Arthur Rambo, Salman Amin Khan, ";
     cout << "Torakusu Yamaha, Jack Ma, Stephen Wolfram, Isaac Newton, Henry Ford, Muhammad ibn Musa al-Khwarizmi, Elizabeth Warren, Ilhan Omar, Tim and Paul Samaras, ";
